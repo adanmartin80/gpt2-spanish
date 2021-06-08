@@ -1,8 +1,8 @@
 # GPT2-Spanish
-GPT2-Spanish is a language generation model trained from scratch with 9GB of Spanish texts and with a Byte Pair Encoding (BPE) tokenizer that was trained for this purpose. The parameters used are the same as the small version of the original OpenAI GPT2 model.
+GPT2-Spanish is a language generation model trained from scratch with 11.5GB of Spanish texts and with a Byte Pair Encoding (BPE) tokenizer that was trained for this purpose. The parameters used are the same as the small version of the original OpenAI GPT2 model.
 
 ## Corpus
-This model was trained with a corpus of 9GB of texts corresponding to 3 GB of Wikipedia articles and 6GB of books (narrative, short stories, theater, poetry, essays, and popularization).
+This model was trained with a corpus of 11.5GB of texts corresponding to 3.5GB of Wikipedia articles and 8GB of books (narrative, short stories, theater, poetry, essays, and popularization).
 
 ## Tokenizer
 The texts are tokenized using a byte-level version of Byte Pair Encoding (BPE) (for Unicode characters) and a vocabulary size of 50257. The inputs are sequences of 1024 consecutive tokens.
