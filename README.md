@@ -15,7 +15,7 @@ Apart from the special token "<|endoftext|>" for text ending in the OpenAI GPT-2
 The model and tokenizer were trained using the Hugging Face libraries with an Nvidia Tesla V100 GPU with 16GB memory on Google Colab servers.
 
 ## Authors
-The model was trained by Jorge Ortiz Fuentes (Chile) and Alejandro Oñate Latorre (Spain), members of DeepESP, an open-source community on Natural Language Processing in Spanish (https://t.me/joinchat/VoEp1bPrDYEexc6h).
+The authors of this model have been anonymized because they are currently being evaluated for publication in INLG2021
 
 Thanks to the members of the community who collaborated with funding for the initial tests.
 
